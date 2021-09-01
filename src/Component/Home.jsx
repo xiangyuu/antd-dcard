@@ -104,9 +104,9 @@ function Home() {
           </div>
         </div>
         <div>
-          <a href='../' className="ant-dropdown-link">
+          <Link to='/welcome'>
             註冊/登入 <DownOutlined/>
-          </a>
+         </Link>
         </div>
       </Header>
 
